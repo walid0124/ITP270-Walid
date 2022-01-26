@@ -1,0 +1,53 @@
+    1  
+    2  lsb_release -a
+    3  sudo apt update
+    4  cs
+    5  python3 --version
+    6  git --version
+    7  clear
+    8  git config --global user.name "walid0124"
+    9  git config --global user.name "walidbd26@gmail.com"
+   10  git config --global color.ui auto
+   11  pwd
+   12  ll
+   13  clear
+   14  ll
+   15  claer
+   16  clear
+   17  mkdir ITP270
+   18  ls
+   19  ll
+   20  ls ITP270
+   21  cd ITP270
+   22  clear
+   23  mkdir ITP270Lecture
+   24  cd ITP270Lecture
+   25  clear
+   26  nano ITP270Lecture2.py
+   27  nano ITP270Lecture2.py 
+   28  git status
+   29  git push
+   30  cd ITP270Walid2.py
+   31  git commit -m "Adding the file ITP270Walid2.py"
+   32  git push
+   33  clear
+   34  git push
+   35  ls
+   36  cd ITP270-Walid
+   37  ls
+   38  clear
+   39  cd ..
+   40  ls
+   41  cp ITP270Walid2.py ~/ITP270-Walid
+   42  cd ITP270-Walid
+   43  ls
+   44  git status
+   45  git add -A
+   46  clear
+   47  git status
+   48  git commit -m "Adding the file ITP270Walid2.py"
+   49  git config --global user.name "Walid Ali"
+   50  git config --global user.email "walidbd26@gmail.com"
+   51  git commit -m "Adding the file ITP270Walid2.py"
+   52  clear
+   53  git push

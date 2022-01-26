@@ -1,0 +1,292 @@
+    1  
+    2  lsb_release -a
+    3  sudo apt update
+    4  cs
+    5  python3 --version
+    6  git --version
+    7  clear
+    8  git config --global user.name "walid0124"
+    9  git config --global user.name "walidbd26@gmail.com"
+   10  git config --global color.ui auto
+   11  pwd
+   12  ll
+   13  clear
+   14  ll
+   15  claer
+   16  clear
+   17  mkdir ITP270
+   18  ls
+   19  ll
+   20  ls ITP270
+   21  cd ITP270
+   22  clear
+   23  mkdir ITP270Lecture
+   24  cd ITP270Lecture
+   25  clear
+   26  nano ITP270Lecture2.py
+   27  nano ITP270Lecture2.py 
+   28  nano ITP270Lecture2.py
+   29  python3 ITP270Lecture2.py
+   30  nano ITP270Walid2.py
+   31  nano 
+   32  python3 ITP270Walid2.py
+   33  git init
+   34  clear
+   35  cd ..
+   36  c;ear
+   37  clear
+   38  cd
+   39  git clone https://github.com/walid0124/ITP270-Walid.git
+   40  ls
+   41  cd CodingClass
+   42  cd ITP270Lecture2.py
+   43  pwd
+   44  cd ITP270
+   45  ls
+   46  cd ITP270-Walid
+   47  ls
+   48  cd ITP270Lecture
+   49  man cp
+   50  clear
+   51  cp ITP270Walid2.py
+   52  ll
+   53  cd ..
+   54  cd
+   55  ls
+   56  ITP270
+   57  cp ITP270Lecture2.py
+   58  cp ITP270Walid2.py
+   59  cd ./
+   60  cd .
+   61  cd ..
+   62  ls
+   63  cd ITP270-Walid
+   64  cp I
+   65  cp ITP270Walid2.py
+   66  cd ..
+   67  cp ITP270
+   68  mkdir ITP270Walid
+   69  cd ITP270Walid
+   70  cp ITP270Walid2.py
+   71  git clone 
+   72  git clone https://github.com/walid0124/ITP270-Walid.git
+   73  cd 
+   74  ls
+   75  cd ITP270Walid
+   76  ls
+   77  cp ITP270Walid2.py ~/ITP270Walid
+   78  ls
+   79  cd ..
+   80  git status
+   81  clear
+   82  ls
+   83  git add ITP270Walid2.py
+   84  git status
+   85  git status
+   86  git push
+   87  cd ITP270Walid2.py
+   88  git commit -m "Adding the file ITP270Walid2.py"
+   89  git push
+   90  clear
+   91  git push
+   92  ls
+   93  cd ITP270-Walid
+   94  ls
+   95  clear
+   96  cd ..
+   97  ls
+   98  cp ITP270Walid2.py ~/ITP270-Walid
+   99  cd ITP270-Walid
+  100  ls
+  101  git status
+  102  git add -A
+  103  clear
+  104  git status
+  105  git commit -m "Adding the file ITP270Walid2.py"
+  106  git config --global user.name "Walid Ali"
+  107  git config --global user.email "walidbd26@gmail.com"
+  108  git commit -m "Adding the file ITP270Walid2.py"
+  109  clear
+  110  git push
+  111  history >commands.txt
+  112  nano git commands_class.txt
+  113  history 
+  114  python3 --ITP270Walid2.py
+  115  cd ..
+  116  ls
+  117  python3 ITP270Lecture2.py 
+  118  clear
+  119  python3 --version
+  120  git --version
+  121  git --version 
+  122  clear
+  123  nano Lecture3.txt
+  124  las
+  125  ls
+  126  clear
+  127  nano Lecture3.txt'\n[';;[]
+  128  nano Lecture3.txt
+  129  clear
+  130  git --version 
+  131  git status
+  132  git add -A
+  133  git add <Lecture3.txt>
+  134  cp Lecture3.txt  ~/ITP270-Walid
+  135  git status
+  136  git commit -m "Adding the Lecture3 file with folder structure"
+  137  git push -u origin
+  138  git push -u Lecture3
+  139  git push -u :Lecture3.txt
+  140  git config --global user.email "walidbd26@gmail.com"
+  141  git push -u :Lecture3.txt
+  142  git push -u Lecture3.txt
+  143  git push Lectur3.txt
+  144  cd ..
+  145  pwd
+  146  /home/kali
+  147  mkdir Movies
+  148  cd Movies
+  149  ls
+  150  clear
+  151  mkdir action
+  152  mkdir comedy
+  153  mkdir drama
+  154  ls
+  155  touch genres.txt
+  156  ls
+  157  cd action
+  158  mkdir scifi
+  159  cd scifi
+  160  touch terminator.txt
+  161  ls
+  162  pwsd
+  163  pwd
+  164  cd .
+  165  cd ..
+  166  mkdir superhero
+  167  touch batman.txt
+  168  touch martrix-revolution.txt
+  169  touch matrix.txt
+  170  touch superman.txt
+  171  touch wonderwoman.txt
+  172  cd ..
+  173  ls
+  174  cd comedy
+  175  mkdir satire
+  176  mkdir slapstick
+  177  touch the-office.txt
+  178  ls
+  179  cd slapstick
+  180  touch zoolander.txt
+  181  touch waterboy.txt
+  182  ls
+  183  cd ..
+  184  ls
+  185  cd satire
+  186  touch fightclub.txt
+  187  ls
+  188  cd ..
+  189  cd..
+  190  cd ..
+  191  ls
+  192  cd comedy
+  193  ls
+  194  cd ..
+  195  ls
+  196  cd drama
+  197  mkdir biopic
+  198  ls
+  199  mkdir historical
+  200  ls
+  201  cd biopic
+  202  touch cleopatra.txt
+  203  touch lincoln.txt
+  204  touch frida.txt
+  205  touch notorious.txt
+  206  touch ray.txt
+  207  ls
+  208  cd ..
+  209  ls
+  210  cd historical
+  211  touch gladiator.txt
+  212  touch selma.txt
+  213  cd ..
+  214  cd..
+  215  cd ..
+  216  ls
+  217  tree
+  218  ls
+  219  cd ..
+  220  ls
+  221  nano CodingClass
+  222  rmdir Music
+  223  ls
+  224  rmdir Pictures
+  225  rmdir Public
+  226  rmdir Templates
+  227  ls
+  228  cd Movies
+  229  tree
+  230  cd ..
+  231  ls
+  232  cd Lecture3.txt
+  233  mkdir Lecture3
+  234  cd Lecture3
+  235  cp Lecture3.txt  ~/Lecture3
+  236  ls
+  237  ll
+  238  cd ..
+  239  cp Lecture3.txt  ~/Lecture3
+  240  cd Le
+  241  cd Lecture3
+  242  ls
+  243  git push
+  244  cd ..
+  245  git push
+  246  git status
+  247  git add <Lecture3>
+  248  git config --global user.email "walidbd26@gmail.com"
+  249  git status
+  250  git add <Lecture3>
+  251  git status
+  252  git push origin
+  253  git push -u origin
+  254  ls
+  255  cd videos
+  256  cd Videos
+  257  cd ..
+  258  ls
+  259  rmdir Videos
+  260  ls -a
+  261  ls -l
+  262  ls
+  263  cd Documents
+  264  cd
+  265  cd ..
+  266  kali/home
+  267  home/kali
+  268  rmdir Documents
+  269  ls
+  270  cd Desktop
+  271  ls
+  272  cd //
+  273  cd ..
+  274  home/kali
+  275  rmdir Desktop
+  276  nano Lecture3.ytxt
+  277  nano Lecture3.txt
+  278  rmdir Lecture3.ytxt
+  279  cd Movies
+  280  cd action
+  281  ls
+  282  nano superman.txt
+  283  cat superman.txt
+  284  cd ..
+  285  cd action
+  286  pwd
+  287  ls
+  288  nano /home/kali/Movies/comedy/satire/fightclub.txt
+  289  cat /home/kali/Movies/comedy/satire/fightclub.txt
+  290  cd ..
+  291  pwd
+  292  ls
